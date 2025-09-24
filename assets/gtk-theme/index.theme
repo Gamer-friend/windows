@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Windows11
+Comment=Windows 11-inspired GTK theme for Linux desktops
+Type=X-GNOME-Metatheme
+
+[X-GNOME-Metatheme]
+GtkTheme=Windows11
+MetacityTheme=Windows11
+IconTheme=windows11
+CursorTheme=Windows11
