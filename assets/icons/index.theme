@@ -1,0 +1,43 @@
+[Icon Theme]
+Name=windows11
+Comment=Fluent-style icon theme inspired by Windows 11
+Directories=apps,places,devices,actions,mimetypes,emblems,animations
+
+# Inherit from a fallback theme if an icon is missing
+Inherits=Adwaita
+
+# Define icon sizes and types
+[apps]
+Size=48
+Context=Applications
+Type=Fixed
+
+[places]
+Size=48
+Context=Places
+Type=Fixed
+
+[devices]
+Size=48
+Context=Devices
+Type=Fixed
+
+[actions]
+Size=24
+Context=Actions
+Type=Fixed
+
+[mimetypes]
+Size=48
+Context=MimeTypes
+Type=Fixed
+
+[emblems]
+Size=16
+Context=Emblems
+Type=Fixed
+
+[animations]
+Size=64
+Context=Animations
+Type=Fixed
