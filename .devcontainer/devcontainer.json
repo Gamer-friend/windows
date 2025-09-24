@@ -1,0 +1,23 @@
+{
+  "name": "Windows 11 Codespaces Desktop",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [3000, 2000],
+  "postCreateCommand": "bash /config/scripts/setup-wine.sh",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "ms-vscode.remote-containers",
+        "ms-vscode.cpptools",
+        "ms-python.python"
+      ]
+    }
+  },
+  "features": {},
+  "remoteUser": "abc"
+}
