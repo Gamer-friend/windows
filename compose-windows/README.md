@@ -10,3 +10,9 @@ This setup uses [`dockurr/windows`](https://github.com/dockurr/windows) to run a
 
    ```bash
    docker-compose up -d
+4. Make Ports public
+5. Access the Windows VM:
+
+Web UI: `http://localhost:8006`
+
+RDP: `localhost:3389`
