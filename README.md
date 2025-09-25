@@ -1,3 +1,9 @@
+> [!WARNING]
+> I have no affiliation with Microsoft.  
+> This project is purely educational and community-driven.  
+> Production and Software development with CREDIT is allowed and required. 
+> Using Windows Codespace Simulater with Docker Container (WCSWD) Without any docker lisence will be put to the subjects code 021 of DOCKER_REGULATION_RULES.
+
 🪟 Windows11 Codespaces Desktop & VM
 Run a Windows 11-style Linux desktop in GitHub Codespaces — or launch a full Windows 11 VM locally via Docker/KVM. Roblox-ready, beginner-friendly, and visually immersive.
 
